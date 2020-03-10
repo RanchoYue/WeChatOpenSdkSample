@@ -1,0 +1,2 @@
+# WeChatOpenSdkSample
+WeChatOpenSdkSample
