@@ -83,6 +83,12 @@
             android:label="@string/app_name"
             android:theme="@style/MMTheme.Basic" />
 
+        <!--以微信开发平台的pkgName为准-->
+        <activity-alias
+            android:name="cn.health.yue.step.wxapi.WXEntryActivity"
+            android:exported="true"
+            android:targetActivity=".wxapi.WXEntryActivity" />
+
     </application>
 
 </manifest>
